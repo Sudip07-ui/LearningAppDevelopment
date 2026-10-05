@@ -1,0 +1,15 @@
+/Users/sunilrijal/Documents/ApD/Workshop2/Task2/bin/Debug/net10.0/Task2
+/Users/sunilrijal/Documents/ApD/Workshop2/Task2/bin/Debug/net10.0/Task2.deps.json
+/Users/sunilrijal/Documents/ApD/Workshop2/Task2/bin/Debug/net10.0/Task2.runtimeconfig.json
+/Users/sunilrijal/Documents/ApD/Workshop2/Task2/bin/Debug/net10.0/Task2.dll
+/Users/sunilrijal/Documents/ApD/Workshop2/Task2/bin/Debug/net10.0/Task2.pdb
+/Users/sunilrijal/Documents/ApD/Workshop2/Task2/obj/Debug/net10.0/Task2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sunilrijal/Documents/ApD/Workshop2/Task2/obj/Debug/net10.0/Task2.AssemblyInfoInputs.cache
+/Users/sunilrijal/Documents/ApD/Workshop2/Task2/obj/Debug/net10.0/Task2.AssemblyInfo.cs
+/Users/sunilrijal/Documents/ApD/Workshop2/Task2/obj/Debug/net10.0/Task2.csproj.CoreCompileInputs.cache
+/Users/sunilrijal/Documents/ApD/Workshop2/Task2/obj/Debug/net10.0/Task2.sourcelink.json
+/Users/sunilrijal/Documents/ApD/Workshop2/Task2/obj/Debug/net10.0/Task2.dll
+/Users/sunilrijal/Documents/ApD/Workshop2/Task2/obj/Debug/net10.0/refint/Task2.dll
+/Users/sunilrijal/Documents/ApD/Workshop2/Task2/obj/Debug/net10.0/Task2.pdb
+/Users/sunilrijal/Documents/ApD/Workshop2/Task2/obj/Debug/net10.0/Task2.genruntimeconfig.cache
+/Users/sunilrijal/Documents/ApD/Workshop2/Task2/obj/Debug/net10.0/ref/Task2.dll
